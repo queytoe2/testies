@@ -11,7 +11,7 @@ Window = Library:Create({
 	Key = "123456",
 	MaxAttempts = 5,
 	DiscordLink = nil,
-	ToggledRelativeYOffset = 1
+	ToggledRelativeYOffset = 100
 })
 
 Window:ChangeTogglekey(Enum.KeyCode.RightShift)
